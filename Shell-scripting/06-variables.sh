@@ -1,9 +1,9 @@
 Num1=100
 NUM2=200
 
-SUM =$((NUM1+NUM2))
+SUM =$(($NUM1+$NUM2))
 
-echo "sum is: $sum"
+echo "sum is: $SUM"
 
 # Array
 FRUITS=("Apple" "Banana" "Pomo")
