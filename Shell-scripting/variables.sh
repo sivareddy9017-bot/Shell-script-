@@ -1,6 +1,6 @@
 #!/bin/bash
-$a=100
-$b=200
-$c=(a+b)
+Person1=Maha
+person2=naga
 
-echo "the value is :" $c
+echo "$Person1 : how are you"
+echo "$Person2 : hello maha im fine how abot you"
