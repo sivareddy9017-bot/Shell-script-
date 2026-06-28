@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SG_ID="sg-076ec9ad23dab2b28" 
+SG_ID="sg-00d83c71723801bfe" 
 AMI_ID="ami-0220d79f3f480ecf5"
 ZONE_ID="Z05013202FKF0ZL12WAOP"
 DOMAIN_NAME="daws88s.online"
