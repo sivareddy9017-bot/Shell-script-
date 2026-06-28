@@ -20,7 +20,7 @@ VALIDATE(){
     fi
 }
 
-dnf install nginx -y &>> $LOGS_FILE   -----& means eaither previuos cmd is success or failure if any it will store these logs_file
+dnf install nginx -y &>> $LOGS_FILE   -----& means eaither previuos cmd/output is success or failure if any it will store these logs_file
 VALIDATE $? "Installing Nginx"
 
 dnf install mysql -y &>> $LOGS_FILE
