@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Before we creating the instance, creates AWS Access keys use IAM and then AWS configure
 SG_ID="sg-00d83c71723801bfe" 
 AMI_ID="ami-0220d79f3f480ecf5"
 
